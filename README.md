@@ -1,2 +1,2 @@
 # GerenciadorDeSenhas
-Gerenciador de senhas com GUI usando Tkinter e JSON
+### Pomodoro desenvolvido no curso da Dr. Angela Yu "100 Days of Code: The Complete Python Pro Bootcamp for 2022"
